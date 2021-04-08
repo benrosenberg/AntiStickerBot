@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import discord, asyncio, logging, dotenv
+import discord, asyncio, logging, dotenv, os
 from discord.ext import commands
 from discord.ext.commands import Bot
 
