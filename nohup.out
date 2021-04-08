@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "bot.py", line 7, in <module>
-    TOKEN = os.getenv("TOKEN")
-NameError: name 'os' is not defined
